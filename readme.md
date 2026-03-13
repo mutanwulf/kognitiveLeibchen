@@ -1,18 +1,10 @@
-\# 🟦 SVG-Leibchen-Generator \& PDF-Erstellung
+![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)
+![PowerShell](https://img.shields.io/badge/PowerShell-7%2B-5391FE.svg?logo=powershell)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
+![Maintainer](https://img.shields.io/badge/maintainer-mutanwulf-orange.svg)
 
-
-
-!\[Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)
-
-!\[PowerShell](https://img.shields.io/badge/PowerShell-7%2B-5391FE.svg?logo=powershell)
-
-!\[License](https://img.shields.io/badge/license-MIT-green.svg)
-
-!\[Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
-
-!\[Maintainer](https://img.shields.io/badge/maintainer-mutanwulf-orange.svg)
-
-
+1\# 🟦 SVG-Leibchen-Generator \& PDF-Erstellung
 
 Dieses Projekt enthält zwei PowerShell-Skripte:
 
@@ -353,6 +345,7 @@ um ein praktisches Werkzeug für Trainings- und Organisationsmaterial zu schaffe
 
 
 Viel Spaß beim Erstellen deiner SVG‑Leibchen und PDFs!
+
 
 
 
