@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">
+  <style>
+    .shape { fill:none; stroke:black; stroke-width:14; }
+    .textpair { font-family:Arial, sans-serif; fill:none; stroke:black; stroke-width:7; }
+  </style>
+
+  <circle cx="200" cy="170" r="140" class="shape"/>
+
+  <text x="200" y="185" text-anchor="middle" dominant-baseline="middle"
+        class="textpair" style="font-size:110px">1 A</text>
+
+</svg>
