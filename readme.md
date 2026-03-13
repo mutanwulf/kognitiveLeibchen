@@ -184,13 +184,13 @@ Bestätigen mit: \*\*Y\*\*
 
 .\\generate\_leibchen.ps1 3 3 2 o
 
-![Beispiel SVG](./Beispiel/1A_Kreis.svg)
+![1A_Kreis](./Beispiel/1A_Kreis.svg)
 
 \### 2. Normale Schrift (gefüllt)
 
 .\\generate\_leibchen.ps1 4 4 4 n
 
-![Beispiel SVG](./Beispiel/1A_Raute.svg)
+![1A_Raute](/Beispiel/1A_Raute.svg)
 
 \---
 
@@ -345,11 +345,3 @@ um ein praktisches Werkzeug für Trainings- und Organisationsmaterial zu schaffe
 
 
 Viel Spaß beim Erstellen deiner SVG‑Leibchen und PDFs!
-
-
-
-
-
-
-
-
